@@ -1,0 +1,16 @@
+C:\dysha\18_prakt\mih\bin\Debug\mih.exe.config
+C:\dysha\18_prakt\mih\bin\Debug\mih.exe
+C:\dysha\18_prakt\mih\bin\Debug\mih.pdb
+C:\dysha\18_prakt\mih\obj\Debug\mih.csproj.AssemblyReference.cache
+C:\dysha\18_prakt\mih\obj\Debug\mih.csproj.SuggestedBindingRedirects.cache
+C:\dysha\18_prakt\mih\obj\Debug\MainWindow.g.cs
+C:\dysha\18_prakt\mih\obj\Debug\App.g.cs
+C:\dysha\18_prakt\mih\obj\Debug\mih_MarkupCompile.cache
+C:\dysha\18_prakt\mih\obj\Debug\mih_MarkupCompile.lref
+C:\dysha\18_prakt\mih\obj\Debug\MainWindow.baml
+C:\dysha\18_prakt\mih\obj\Debug\mih.g.resources
+C:\dysha\18_prakt\mih\obj\Debug\mih.Properties.Resources.resources
+C:\dysha\18_prakt\mih\obj\Debug\mih.csproj.GenerateResource.cache
+C:\dysha\18_prakt\mih\obj\Debug\mih.csproj.CoreCompileInputs.cache
+C:\dysha\18_prakt\mih\obj\Debug\mih.exe
+C:\dysha\18_prakt\mih\obj\Debug\mih.pdb
